@@ -1,7 +1,7 @@
-## Hi there 👋
+## Hello, I am Lohitha Sree Harshitha
 
 <!--
-**lakkilohitha/lakkilohitha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+** ✨ Aspiring Data Analyst|Life Long Learner
 
 Here are some ideas to get you started:
 
