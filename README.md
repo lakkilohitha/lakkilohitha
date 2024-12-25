@@ -1,7 +1,6 @@
 ## Hello, I am Lohitha Sree Harshitha
 
-<!--
-** ✨ Aspiring Data Analyst|Life Long Learner
+# ✨ Aspiring Data Analyst|Life Long Learner
 
 Here are some ideas to get you started:
 
