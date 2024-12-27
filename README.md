@@ -21,6 +21,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+ <a class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=lakkilohitha" target="_blank">Follow on LinkedIn</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
